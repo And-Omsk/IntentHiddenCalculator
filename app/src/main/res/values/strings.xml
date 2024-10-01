@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">IntentНiddenСalculator</string>
+    <string name="hintName">поле результата</string>
+    <string name="buttomNameCalculator">Калькулятор</string>
+    <string name="editText1Hint">первое число</string>
+    <string name="editText2Hint">второе число</string>
+</resources>
